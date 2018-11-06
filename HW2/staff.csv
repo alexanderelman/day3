@@ -1,0 +1,25 @@
+Last,First,ID,Title,Gross Wages,Vacation Earned,Vacation Spent,Bonused,Bonus %,Zip
+Alpha,Alice,101,Chief Executive Officer,247550,200,64,Y,15,78746
+Beta,Bob,201,Chief Operations Officer,156415,200,0,Y,12,78756
+Gamma,Gene,301,Senior Assembler,64181,160,160,N,10,78750
+Delta,Dana,202,Chief Financial Officer,164230,120,100,Y,12,78745
+Epsilon,Earl,203,Chief Technology Officer,160000,120,100,Y,12,78759
+Zeta,Zelda,302,Senior Assembler,66790,120,120,Y,10,78704
+Eta,Ethan,303,Assembler,58842,120,120,N,10,78705
+Theta,Theo,304,Assembler,49313,80,72,N,10,78731
+Iota,Iris,305,Assembler,50175,80,0,N,10,78737
+Kappa,Katherine,306,Assembler,44773,80,0,N,10,78745
+Lambda,Larry,307,Assembler,46004,40,0,N,10,78750
+Mu,Megan,204,Chief Counsel,110575,120,40,Y,12,78759
+Nu,Nina,308,Senior Assembler,66216,80,80,Y,10,78704
+Xi,Axel,309,Driver,37620,40,40,N,10,78737
+Omicron,Otis,310,Assembler,24201,40,0,N,10,78731
+Pi,Peggy,205,Assistant Counsel,98008,80,72,N,12,78746
+Rho,Rhonda,311,Senior Design Specialist,70210,80,64,Y,10,78789
+Sigma,Sal,206,Chief Information Officer,101010,120,120,Y,10,78746
+Tau,Tanya,312,Design Specialist,49876,80,0,N,10,78745
+Upsilon,Uriel,313,Part-Time Assembler,27500,24,24,N,0,78731
+Phi,Frank,314,Part-Time Assembler,36000,24,24,N,0,78737
+Chi,Kerri,315,Part-Time Assembler,39999,32,32,N,0,78737
+Psi,Phil,316,Contractor,45000,0,0,N,0,78705
+Omega,Ophelia,317,Part-Time Assembler,49876,32,32,N,0,78745
