@@ -15,7 +15,9 @@ public class Employee {
     public Employee() {
     }
 
-    public Employee(String lastName, String firstName, int id, String title, double grossWages, int vacationEarned, int vacationSpent, boolean bonused, int bonusPercent, String zipCode) {
+    public Employee(String lastName, String firstName, int id, String title,
+            double grossWages, int vacationEarned, int vacationSpent,
+            boolean bonused, int bonusPercent, String zipCode) {
         this.lastName = lastName;
         this.firstName = firstName;
         this.id = id;
@@ -111,7 +113,5 @@ public class Employee {
     @Override
     public String toString() {
         return String.format("%s %s", firstName, lastName);
-    }
-    
-    
+    }    
 }
